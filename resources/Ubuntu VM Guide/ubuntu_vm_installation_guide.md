@@ -7,7 +7,7 @@ This guide features:
 - VirtualBox version 7.0.8
 - Ubuntu version 22.04.2 LTS
 
-# Prerequisites:
+# Prerequisites
 Recommended minimum system requirements:
 - 2 GHz dual-core processor 
 - 4 GB RAM 
