@@ -2,19 +2,19 @@ Thanks for reviewing my portfolio. Below are my technical writing samples.
 
 # Guide: Install Ubuntu on a Virtual Machine
 
-[This quick installation guide]() explains how to use Oracle’s VirtualBox software to install Ubuntu Linux on a virtual machine. 
+[This quick installation guide](resources/ubuntu_vm_installation_guide.md) explains how to use Oracle’s VirtualBox software to install Ubuntu Linux on a virtual machine. 
 
 **Background:** Virtual machines fascinate me. Early on in my programming education I was advised to set up a virtual machine where I would do all of my coding work. I thought it was neat to have a separate workspace where I could toy around with Linux and not worry so much about breaking my computer. As an aspiring technical writer, I wrote this guide strictly for experience. The target reader is someone looking to quickly set up a virtual machine without getting bogged down in configuration.
 
 # Summary Report: Test Session on IBM.com
 
-[This report]() summarizes an exploratory test session I performed on IBM.com’s UI. The report highlights a defect in their feature that allows potential clients to book sales meetings.
+[This report](resources/ibm_exploratory_test_summary.pdf) summarizes an exploratory test session I performed on IBM.com’s UI. The report highlights a defect in their feature that allows potential clients to book sales meetings.
 
 **Background:** In addition to technical writing, I am interested in software testing as a potential career. I recently passed ISTQB’s foundation level testing exam and have been practicing testing skills on websites to help me gain experience. I wrote this report as a way to practice my writing and testing skills. I wrote for an expert audience.
 
 # Game Manual: How to Play Chess
 
-[This game manual]() explains how to play chess to new players. 
+[This game manual](resources/chess_manual.pdf) explains how to play chess to new players. 
 
 The manual covers:
 - Pieces
