@@ -2,7 +2,7 @@ Thanks for reviewing my portfolio. Below are my technical writing samples.
 
 # Guide: Install Ubuntu on a Virtual Machine
 
-[This quick installation guide](resources/Ubuntu VM Guide/ubuntu_vm_installation_guide.md) explains how to use Oracle’s VirtualBox software to install Ubuntu Linux on a virtual machine. 
+[This quick installation guide](https://github.com/Ted-V/portfolio/blob/main/resources/Ubuntu%20VM%20Guide/ubuntu_vm_installation_guide.md) explains how to use Oracle’s VirtualBox software to install Ubuntu Linux on a virtual machine. 
 
 **Background:** Virtual machines fascinate me. Early on in my programming education I was advised to set up a virtual machine where I would do all of my coding work. I thought it was neat to have a separate workspace where I could toy around with Linux and not worry so much about breaking my computer. As an aspiring technical writer, I wrote this guide strictly for experience. The target reader is someone looking to quickly set up a virtual machine without getting bogged down in configuration.
 
