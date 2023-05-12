@@ -8,7 +8,7 @@ This guide features:
 - Ubuntu version 22.04.2 LTS
 
 # Prerequisites:
-Recommended minimum system requirements
+Recommended minimum system requirements:
 - 2 GHz dual-core processor 
 - 4 GB RAM 
 - 30 GB of free hard drive space  
