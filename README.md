@@ -6,7 +6,7 @@ Thanks for reviewing my portfolio. Below are my technical writing samples.
 
 <a href="https://github.com/Ted-V/portfolio/blob/main/resources/Ubuntu%20VM%20Guide/ubuntu_vm_installation_guide.md"><img src="resources/thumbnails/ubuntu_virtualbox_graphic.png" style="box-shadow: 1px 1px 1px 1px grey;"/></a>
 
-**Background:** Early on in my programming education I was advised to work on my coding projects inside of a virtual machine. I thought it was neat to have a separate workspace where I could toy around with Linux and not worry so much about breaking my computer. I also remember being confused about how to set up the virtual machine. This guide is intended to help someone quickly set up a virtual machine without getting bogged down in configuration. Writing this guide gave me experience working with Markdown and Snag It.
+**Background:** Early on in my programming education I was advised to work on my coding projects inside of a virtual machine. I thought it was neat to have a separate workspace where I could toy around with Linux and not worry much about breaking my computer. I also remember being confused about how to set up the virtual machine. This guide is intended to help someone quickly set up a virtual machine without getting bogged down in configuration. Writing this guide gave me experience working with Markdown and Snag It.
 
 # Summary Report: Test Session on IBM.com
 
