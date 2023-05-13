@@ -1,16 +1,16 @@
 Thanks for reviewing my portfolio. Below are my technical writing samples.
 
-# Guide: Install Ubuntu on a Virtual Machine
+# How-to Guide: Install Ubuntu on a Virtual Machine
 
-This [quick installation guide](https://github.com/Ted-V/portfolio/blob/main/resources/Ubuntu%20VM%20Guide/ubuntu_vm_installation_guide.md) explains how to use Oracle’s VirtualBox software to install Ubuntu Linux on a virtual machine. 
+This [how-to guide](https://github.com/Ted-V/portfolio/blob/main/resources/Ubuntu%20VM%20Guide/ubuntu_vm_installation_guide.md) explains how to use Oracle’s VirtualBox software to install Ubuntu Linux on a virtual machine. The guide is task oriented and assumes basic computer literacy.
 
 <a href="https://github.com/Ted-V/portfolio/blob/main/resources/Ubuntu%20VM%20Guide/ubuntu_vm_installation_guide.md"><img src="resources/thumbnails/ubuntu_virtualbox_graphic.png" style="box-shadow: 1px 1px 1px 1px grey;"/></a>
 
-**Background:** Early on in my programming education I was advised to work on my coding projects inside of a virtual machine. I thought it was neat to have a separate workspace where I could toy around with Linux and not worry much about breaking my computer. I also remember being confused about how to set up the virtual machine. This guide is intended to help someone quickly set up a virtual machine without getting bogged down in configuration. Writing this guide gave me experience working with Markdown and Snag It.
+**Background:** Early on in my programming education I was advised to work on my coding projects inside of a virtual machine. I thought it was neat to have a separate workspace where I could toy around with Linux and not worry about breaking my computer. Looking back, I remember being confused about how to set up the virtual machine. This guide is intended to help someone quickly set up a virtual machine without getting bogged down in configuration. Writing this guide gave me experience working with Markdown and Snag It.
 
 # Game Manual: How to Play Chess
 
-This [game manual](resources/chess_manual.pdf) explains how to play chess.
+This [game manual](resources/chess_manual.pdf) explains the rules of chess.
 
 <a href="resources/chess_manual.pdf"><img src="resources/thumbnails/chess_manual_graphic.png" style="box-shadow: 1px 1px 1px 1px grey;"/></a>
 
