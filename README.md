@@ -18,7 +18,7 @@ Thanks for reviewing my portfolio. Below are my technical writing samples.
 
 # Game Manual: How to Play Chess
 
-[This game manual](resources/chess_manual.pdf) explains how to play chess to new players. 
+[This game manual](resources/chess_manual.pdf) explains how to play chess. The document is printable and intended to be stored with a chess set to use as a reference. 
 
 The manual covers:
 - Pieces
