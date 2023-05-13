@@ -6,7 +6,7 @@ Thanks for reviewing my portfolio. Below are my technical writing samples.
 
 <a href="https://github.com/Ted-V/portfolio/blob/main/resources/Ubuntu%20VM%20Guide/ubuntu_vm_installation_guide.md"><img src="resources/thumbnails/ubuntu_virtualbox_graphic.png" style="box-shadow: 1px 1px 1px 1px grey;"/></a>
 
-**Background:** Virtual machines fascinate me. Early on in my programming education I was advised to set up a virtual machine where I would do all of my coding work. I thought it was neat to have a separate workspace where I could toy around with Linux and not worry so much about breaking my computer. As an aspiring technical writer, I wrote this guide to gain experience working with Markdown and Snag It. The guide is intended to help someone quickly set up a virtual machine without getting bogged down in configuration.
+**Background:** Early on in my programming education I was advised to work on my coding projects inside of a virtual machine. I thought it was neat to have a separate workspace where I could toy around with Linux and not worry so much about breaking my computer. I also remember being confused about how to set up the virtual machine. This guide is intended to help someone quickly set up a virtual machine without getting bogged down in configuration. Writing this guide gave me experience working with Markdown and Snag It.
 
 # Summary Report: Test Session on IBM.com
 
@@ -14,7 +14,7 @@ Thanks for reviewing my portfolio. Below are my technical writing samples.
 
 <a href="resources/ibm_exploratory_test_summary.pdf"><img src="resources/thumbnails/test_report_graphic.png" style="box-shadow: 1px 1px 1px 1px grey;"/></a>
 
-**Background:** In addition to technical writing, I am interested in software testing and quality assurance. I recently passed ISTQB’s foundation level testing exam and have been practicing testing skills on websites to gain some practical experience. I wrote this report as a way to practice both writing and testing skills. I wrote for an expert audience.
+**Background:** In addition to technical writing, I am interested in software testing and quality assurance work. I recently passed ISTQB’s foundation level testing exam and have been practicing my testing skills on websites to gain some practical experience. I wrote this report as a way to practice both my writing and testing skills. I wrote for an expert audience.
 
 # Game Manual: How to Play Chess
 
