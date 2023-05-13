@@ -43,4 +43,6 @@ I would be happy to produce more samples upon request. The work above represents
 - Languages: HTML5, CSS3, Javascript ES6+
 - Quick learner
 - Good listener
-- Working in a fast paced environment
+- An eye for design
+- Pays attention to details
+- Can work in a fast paced environment
