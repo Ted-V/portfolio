@@ -1,4 +1,4 @@
-# Install Ubuntu Linux on a Virtual Machine Using VirtualBox
+# How to Install Ubuntu Linux on a Virtual Machine Using VirtualBox
 #  Overview
 This guide explains how to use Oracle's VirtualBox software to install Ubuntu on a virtual machine. You can use this guide to install other Linux distributions, however, system requirements may vary.
 
