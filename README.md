@@ -4,13 +4,13 @@ Thanks for reviewing my portfolio. Below are my technical writing samples.
 
 [This quick installation guide](https://github.com/Ted-V/portfolio/blob/main/resources/Ubuntu%20VM%20Guide/ubuntu_vm_installation_guide.md) explains how to use Oracle’s VirtualBox software to install Ubuntu Linux on a virtual machine. 
 
-**Background:** Virtual machines fascinate me. Early on in my programming education I was advised to set up a virtual machine where I would do all of my coding work. I thought it was neat to have a separate workspace where I could toy around with Linux and not worry so much about breaking my computer. As an aspiring technical writer, I wrote this guide strictly for experience. The target reader is someone looking to quickly set up a virtual machine without getting bogged down in configuration.
+**Background:** Virtual machines fascinate me. Early on in my programming education I was advised to set up a virtual machine where I would do all of my coding work. I thought it was neat to have a separate workspace where I could toy around with Linux and not worry so much about breaking my computer. As an aspiring technical writer, I wrote this guide to gain experience working with Markdown and Snag It. The guide is intended to help someone quickly set up a virtual machine without getting bogged down in configuration.
 
 # Summary Report: Test Session on IBM.com
 
 [This report](resources/ibm_exploratory_test_summary.pdf) summarizes an exploratory test session I performed on IBM.com’s UI. The report highlights a defect in their feature that allows potential clients to book sales meetings.
 
-**Background:** In addition to technical writing, I am interested in software testing as a potential career. I recently passed ISTQB’s foundation level testing exam and have been practicing testing skills on websites to help me gain experience. I wrote this report as a way to practice my writing and testing skills. I wrote for an expert audience.
+**Background:** In addition to technical writing, I am interested in software testing and quality assurance. I recently passed ISTQB’s foundation level testing exam and have been practicing testing skills on websites to gain some practical experience. I wrote this report as a way to practice both writing and testing skills. I wrote for an expert audience.
 
 # Game Manual: How to Play Chess
 
