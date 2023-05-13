@@ -1,6 +1,6 @@
 Thanks for reviewing my portfolio. Below are my technical writing samples.
 
-# How-to Guide: Install Ubuntu on a Virtual Machine
+# How to Install Ubuntu on a Virtual Machine
 
 This [how-to guide](https://github.com/Ted-V/portfolio/blob/main/resources/Ubuntu%20VM%20Guide/ubuntu_vm_installation_guide.md) explains how to use Oracle’s VirtualBox software to install Ubuntu Linux on a virtual machine. The guide is task oriented and assumes basic computer literacy.
 
