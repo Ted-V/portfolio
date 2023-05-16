@@ -1,12 +1,12 @@
 Thanks for reviewing my portfolio. Below are my technical writing samples.
 
-# Tutorial: How to Write and Run Test Scripts Using JavaScript and Selenium WebDriver
+# How to Write and Run Test Scripts Using JavaScript and Selenium WebDriver
 
 This [tutorial]() explains how to use JavaScript and Selenium WebDriver to write scripts that automate web browser activity. The tutorial is intended for beginners who have a basic understanding of JavaScript. The tutorial uses an example to teach how to use Selenium methods to locate and interact with HTML elements.
 
-<a href="https://github.com/Ted-V/portfolio/blob/main/resources/"><img src="resources/thumbnails/selenium_js_graphic.png" style="box-shadow: 1px 1px 1px 1px grey;"/></a>
+<a href="https://github.com/Ted-V/portfolio/blob/main/resources/Selenium_JS_Tutorial/seleniumtut.md"><img src="resources/thumbnails/selenium_alt_graphic.png" style="box-shadow: 1px 1px 1px 1px grey;"/></a>
 
-**Background:** I heard Selenium is a popular tool in automation testing so I thought I'd try learning it. To my dismay, I had trouble finding a good tutorial written in JavaScript, the language I'm most familiar with. After learning the basics of Selenium from multiple sources, I decided to write a tutorial of my own. Writing this guide helped me solidify my knowledge and I hope it can help other beginners get started. 
+**Background:** I heard Selenium is a popular tool in automation testing so I thought I'd try learning it. To my dismay, I had trouble finding a good tutorial written in JavaScript, the language I'm most familiar with. After learning the basics of Selenium from multiple sources, I decided to write a tutorial of my own. Writing this guide helped me solidify my knowledge and I hope it can help other beginners get started.
 
 # How to Install Ubuntu on a Virtual Machine
 
