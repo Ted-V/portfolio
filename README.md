@@ -1,8 +1,16 @@
 Thanks for reviewing my portfolio. Below are my technical writing samples.
 
+# Tutorial: How to Write and Run Test Scripts Using JavaScript and Selenium WebDriver
+
+This [tutorial]() explains how to use JavaScript and Selenium WebDriver to write scripts that automate web browser activity. The tutorial is intended for beginners who have a basic understanding of JavaScript. The tutorial uses an example to teach how to use Selenium methods to locate and interact with HTML elements.
+
+<a href="https://github.com/Ted-V/portfolio/blob/main/resources/"><img src="resources/thumbnails/selenium_js_graphic.png" style="box-shadow: 1px 1px 1px 1px grey;"/></a>
+
+**Background:** I heard Selenium is a popular tool in automation testing so I thought I'd try learning it. To my dismay, I had trouble finding a good tutorial written in JavaScript, the language I'm most familiar with. After learning the basics of Selenium from multiple sources, I decided to write a tutorial of my own. Writing this guide helped me solidify my knowledge and I hope it can help other beginners get started. 
+
 # How to Install Ubuntu on a Virtual Machine
 
-This [how-to guide](https://github.com/Ted-V/portfolio/blob/main/resources/Ubuntu%20VM%20Guide/ubuntu_vm_installation_guide.md) explains how to use Oracle’s VirtualBox software to install Ubuntu Linux on a virtual machine. The guide is task oriented and assumes basic computer literacy.
+This [how-to guide](https://github.com/Ted-V/portfolio/blob/main/resources/Ubuntu%20VM%20Guide/ubuntu_vm_installation_guide.md) explains how to use Oracle’s VirtualBox software to install Ubuntu Linux on a virtual machine. The guide is task-oriented and assumes basic computer literacy.
 
 <a href="https://github.com/Ted-V/portfolio/blob/main/resources/Ubuntu%20VM%20Guide/ubuntu_vm_installation_guide.md"><img src="resources/thumbnails/ubuntu_virtualbox_graphic.png" style="box-shadow: 1px 1px 1px 1px grey;"/></a>
 
@@ -22,7 +30,7 @@ This [report](resources/ibm_exploratory_test_summary.pdf) summarizes an explorat
 
 <a href="resources/ibm_exploratory_test_summary.pdf"><img src="resources/thumbnails/test_report_graphic.png" style="box-shadow: 1px 1px 1px 1px grey;"/></a>
 
-**Background:** In addition to technical writing, I am interested in software testing and quality assurance work. I recently passed ISTQB’s foundation level testing exam and have been practicing my testing skills on websites to gain some practical experience. I wrote this report as a way to practice both my writing and testing skills. I wrote for an expert audience.
+**Background:** In addition to technical writing, I'm interested in software testing and quality assurance work. I recently passed ISTQB’s foundation exam and I've been practicing my testing skills on various websites to gain practical experience. I wrote this report as a way to practice my writing and testing skills. I wrote for an expert audience.
 
 # More Samples
 I would be happy to produce more samples upon request. The work above represents my current skill level and where I'm at in my career. Feel free to contact me at tedverdonkschot@outlook.com if you'd like to see more.
@@ -44,4 +52,5 @@ I would be happy to produce more samples upon request. The work above represents
 - Good listener
 - An eye for design
 - Pays attention to details
-- Can work in a fast paced environment
+- Can work in a fast-paced environment
+- Distill complex concepts from multiple sources
