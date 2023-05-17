@@ -2,7 +2,7 @@ Thanks for reviewing my portfolio. Below are my technical writing samples.
 
 # How to Write and Run Test Scripts Using JavaScript and Selenium WebDriver
 
-This [tutorial]() explains how to use JavaScript and Selenium WebDriver to write scripts that automate web browser activity. The tutorial is intended for beginners who have a basic understanding of JavaScript. The tutorial uses an example to teach how to use Selenium methods to locate and interact with HTML elements.
+This [tutorial](https://github.com/Ted-V/portfolio/blob/main/resources/Selenium_JS_Tutorial/seleniumtut.md) explains how to use JavaScript and Selenium WebDriver to write scripts that automate web browser activity. The tutorial is intended for beginners who have a basic understanding of JavaScript. The tutorial uses an example to teach how to use Selenium methods to locate and interact with HTML elements.
 
 <a href="https://github.com/Ted-V/portfolio/blob/main/resources/Selenium_JS_Tutorial/seleniumtut.md"><img src="resources/thumbnails/selenium_alt_graphic.png" style="box-shadow: 1px 1px 1px 1px grey;"/></a>
 
