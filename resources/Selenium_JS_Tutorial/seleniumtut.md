@@ -414,3 +414,6 @@ Feel free to use the Book Logger App as a playground to practice your testing sk
 
 ### Further reading
 * Selenium's documentation - https://www.selenium.dev/documentation/
+
+
+# [Back to my portfolio](https://ted-v.github.io/portfolio/) 
