@@ -327,13 +327,13 @@ Selenium provides the follow methods for automating keyboard and mouse events:
 | `keyUp()`        | Performs a key release                                |
 | `keyDown()`      | Performs a key press without release                   |
 
-We will use `sendkeys(<value>)` to enter title, author, and page count information. We will use `click()` to click the **Add book** button.
+We will use `sendKeys(<value>)` to enter title, author, and page count information. We will use `click()` to click the **Add book** button.
 
 ## Entering Our New Book's Information
 Choose a book you would like to add. We will be adding The Odyssey, by Homer (384 pages).
 
 
-1. Append `.sendkeys(<value>)` to each statement in your file that locates an input.
+1. Append `.sendKeys(<value>)` to each statement in your file that locates an input.
 
         await driver.findElement(By.id('title')).sendKeys('The Odyssey');
 
