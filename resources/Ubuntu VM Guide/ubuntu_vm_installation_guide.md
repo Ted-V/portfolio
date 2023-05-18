@@ -3,15 +3,15 @@
 This guide explains how to use Oracle's VirtualBox software to install Ubuntu on a virtual machine. You can use this guide to install other Linux distributions, however, system requirements may vary.
 
 This guide features:
-- Windows as the host operating system
-- VirtualBox version 7.0.8
-- Ubuntu version 22.04.2 LTS
+- Windows as the host operating system.
+- VirtualBox version 7.0.8.
+- Ubuntu version 22.04.2 LTS.
 
 # Prerequisites
 Recommended minimum system requirements:
-- 2 GHz dual-core processor 
-- 4 GB RAM 
-- 30 GB of free hard drive space  
+- 2 GHz dual-core processor. 
+- 4 GB RAM. 
+- 30 GB of free hard drive space.  
   
 # Instructions
 
