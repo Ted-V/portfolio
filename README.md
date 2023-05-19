@@ -24,6 +24,14 @@ This [game manual](resources/chess_manual.pdf) explains the rules of chess.
 
 **Background:** I created this guide as a way to practice my documentation skills. As an aspiring technical writer, I was advised to try writing documentation for a household item. Following that advice, I searched my home and found an old chess set that was missing a rulebook. This is my novice attempt at creating that missing rulebook. 
 
+# Template: Audience and Purpose Overview
+
+This [GoogleDocs template](https://docs.google.com/document/d/1FrgzfyifFIkPSuOr0ERs_vaioVlgcjXrBJuEHpS2sq4/edit?usp=sharing) offers writers a way to organize and record essential information about their project's target audience and purpose. The goal of this template is to establish a document's purpose and aim early on in the writing process. The template is free to use and can be easily transferred to a Google drive. 
+
+<a href="https://docs.google.com/document/d/1FrgzfyifFIkPSuOr0ERs_vaioVlgcjXrBJuEHpS2sq4/edit?usp=sharing"><img src="resources/thumbnails/template_graphic.png" style="box-shadow: 1px 1px 1px 1px grey;"/></a>
+
+**Background:** I use this template as a starting point in my writing process. In writing this template I borrowed terminology from Dan Graham's *The Writing System* course. Like Dan, I believe that at the foundation of any well-written document is a clearly defined purpose statement and a careful consideration of the target audience. A document written without these two elements lacks sense and aim. Aimless writing should be avoided in business because it does nothing to achieve objectives, it wastes time, and it can introduce risk.
+
 # Summary Report: Test Session on IBM.com
 
 This [report](resources/ibm_exploratory_test_summary.pdf) summarizes an exploratory test session I performed on IBM.com’s UI. The report highlights a defect in their feature that allows potential clients to book sales meetings.
