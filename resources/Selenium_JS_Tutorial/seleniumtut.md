@@ -172,7 +172,7 @@ Our project is set up and we are ready to write our first script. In this tutori
 
 ![book logger app img](imgs/book_logger_screencap.png)
 
-### Our testing scenario includes the following objectives: 
+### Our testing effort includes the following objectives: 
 1. Visit the Book Logger website.
 2. Complete the book form using valid inputs.
 3. Submit the book form.
