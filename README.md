@@ -18,7 +18,7 @@ This [how-to guide](https://github.com/Ted-V/portfolio/blob/main/resources/Ubunt
 
 # Game Manual: How to Play Chess
 
-This [game manual](resources/chess_manual.pdf) explains the rules of chess.
+This [game manual](resources/Chess_Manual.pdf) explains the rules of chess.
 
 <a href="resources/chess_manual.pdf"><img src="resources/thumbnails/chess_manual_graphic.png" style="box-shadow: 1px 1px 1px 1px grey;"/></a>
 
