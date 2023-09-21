@@ -20,7 +20,7 @@ This [how-to guide](https://github.com/Ted-V/portfolio/blob/main/resources/Ubunt
 
 This [game manual](resources/Chess_Manual.pdf) explains the rules of chess.
 
-<a href="resources/chess_manual.pdf"><img src="resources/thumbnails/chess_manual_graphic.png" style="box-shadow: 1px 1px 1px 1px grey;"/></a>
+<a href="resources/Chess_Manual.pdf"><img src="resources/thumbnails/chess_manual_graphic.png" style="box-shadow: 1px 1px 1px 1px grey;"/></a>
 
 **Background:** I created this guide as a way to practice my documentation skills. As an aspiring technical writer, I was advised to try writing documentation for a household item. Following that advice, I searched my home and found an old chess set that was missing a rulebook. This is my novice attempt at creating that missing rulebook. 
 
